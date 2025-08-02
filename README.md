@@ -1,15 +1,13 @@
 # Renan-Valduga
 
-
-
-# 👋 Hi, I'm Renan Kafer! / Ciao, sono Renan Kafer!
+# 👋 Hi, I'm Renan Valduga! / Ciao, sono Renan Valduga!
 
 🇮🇹🇧🇷 I'm an **Italo-Brazilian** and a **Computer Science student at UNIOESTE**.  
-💻 I have experience with **Java, JavaScript, Python, Spring Boot, AWS, software engineering, integrations, and React**.  
+💻 I have **1.5 years of experience as a Full Stack Developer**, mainly working with **Java (Spring Boot)** on the backend and **React/JavaScript** on the frontend.  
 🚀 Passionate about technology, software development, and building innovative solutions.  
 
 🇮🇹🇧🇷 Sono **italo-brasiliano** e **studente di Informatica presso l'UNIOESTE**.  
-💻 Ho esperienza con **Java, JavaScript, Python, Spring Boot, AWS, ingegneria del software, integrazioni e React**.  
+💻 Ho **1 anno e mezzo di esperienza come sviluppatore Full Stack**, lavorando principalmente con **Java (Spring Boot)** per il backend e **React/JavaScript** per il frontend.  
 🚀 Appassionato di tecnologia, sviluppo software e creazione di soluzioni innovative.  
 
 ---
