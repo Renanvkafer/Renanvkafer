@@ -6,7 +6,7 @@
 💻 I have **1.5 years of experience as a Full Stack Developer**, mainly working with **Java (Spring Boot)** on the backend and **React/JavaScript** on the frontend.  
 🚀 Passionate about technology, software development, and building innovative solutions.  
 
-🇮🇹🇧🇷 Sono **italo-brasiliano** e **studente di Informatica presso l'UNIOESTE**.  
+🇮🇹🇧🇷 Sono **italo-brasiliano** e **studente di Informatica presso Università degli Studi di Siena**.  
 💻 Ho **1 anno e mezzo di esperienza come sviluppatore Full Stack**, lavorando principalmente con **Java (Spring Boot)** per il backend e **React/JavaScript** per il frontend.  
 🚀 Appassionato di tecnologia, sviluppo software e creazione di soluzioni innovative.  
 
