@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Renan Valduga! / Ciao, sono Renan Valduga!
 
-🇮🇹🇧🇷 I'm an **Italo-Brazilian** and a **Computer Science student at UNIOESTE**.  
+🇮🇹🇧🇷 I'm an **Italo-Brazilian** and a **computer engineering student at **Università degli Studi di Siena****.  
 💻 I have **1.5 years of experience as a Full Stack Developer**, mainly working with **Java (Spring Boot)** on the backend and **React/JavaScript** on the frontend.  
 🚀 Passionate about technology, software development, and building innovative solutions.  
 
