@@ -28,3 +28,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/renan-valduga-kafer-921750243/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Renanvkafer)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:renanvkafer@gmail.com)
+[![Substack](https://img.shields.io/badge/Substack-orange?logo=substack&logoColor=white&style=for-the-badge)](https://substack.com/@renanvaldugakafer)
