@@ -20,7 +20,8 @@
 ---
 
 ## 📊 GitHub Stats / Statistiche GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Renanvkafer&show_icons=true&theme=dracula)
+![Renan GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Renanvkafer&show_icons=true&theme=dracula)
+
 
 ---
 
