@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats / Statistiche GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Renanvkafer&show_icons=true&theme=dracula)
+
 
 ---
 
